@@ -44,7 +44,7 @@ body {
   grid-template-columns: 1fr 1fr;
   gap: var(--spacer-app);
   height: 100%;
-  background-image: url("/src/images/background-main.jpg");
+  background-image: url("/omorfia/src/images/background-main.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
